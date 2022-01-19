@@ -1,5 +1,3 @@
-using System;
-
 namespace CampringWebsite.Models
 {
     public class ErrorViewModel
